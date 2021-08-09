@@ -1,0 +1,13 @@
+{
+  "name": "jasmineTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "karma-jasmine": "^4.0.1",
+    "karma": "^6.3.4",
+    "karma-chrome-launcher": "^3.1.0"
+  },
+  "dependencies": {
+  }
+}
